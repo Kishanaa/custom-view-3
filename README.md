@@ -1,0 +1,1 @@
+Create a new XML file res/values/attrs.xml and Here, we define circleColor as a custom attribute that accepts a color value. /n You can harcore the color in XML and also dynamically Change the Color in Java.
